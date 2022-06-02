@@ -8,8 +8,8 @@ if os.path.exists("local.env"):
 load_dotenv()
 admins = {}
 SESSION_NAME = "AQAP3fV9d7EG9IHVTHrfPFoRXSFtqPHcPHOzAUvw1kO0EDreOAOgptK1oGLDjToNK3H4R7mF_9f3aMbkgyF0Dn6fAgI0HukrDXLFbwwDENWI9nPFYH3SmJiLDDhlvAIu23JVw4-m1Ri3f8G77-GgbsWM4q7Cst1UKJpk_slyZvWGq2lxfZ6rcqhN1cFJ_CLIrcs0dOLUbbeKFy_ie96SlsaZKcDzi4DIYA6lYz6-DY4rtRQ33wQjxye7L4Au7VIF7Nv5OpqG6U9ELe3upND_l_6FYZSMGlqwlz65q2077luWgWx8d6R3R10vLfZPWLvqUoKCmEsfuJsqfpwlZvJh-0XMdcSqmwA"
-BOT_TOKEN = "1931163050:AAFaNETwdYhxwU1DlHZEMW3tsfMhdB9z8kQ"
-BOT_NAME = "Sayu"
+BOT_TOKEN = "1722380301:AAHGUHuGgwmmVq-IHe0JtgHhP2unmkUOMfY"
+BOT_NAME = "Ruka"
 API_ID = 8896402
 API_HASH = "de2f306c240b3036cac3866e738fad3f"
 DATABASE_URL = "mongodb+srv://fridayub:7352007414@cluster0.garnp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
@@ -19,7 +19,7 @@ BOT_USERNAME = "SayuVc"
 ASSISTANT_NAME = "RukaVc"
 GROUP_SUPPORT = "RukaSupport"
 UPDATES_CHANNEL = "Rukaupdates"
-SUDO_USERS = "1634155867"
+SUDO_USERS = 1634155867
 COMMAND_PREFIXES = "/"
 ALIVE_IMG = "https://telegra.ph/file/16fd73ce91fb4e569db9e.jpg")
 DURATION_LIMIT = "60"
